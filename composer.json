@@ -1,5 +1,5 @@
 {
-    "name": "tallstackui/tallstackui",
+    "name": "laravel-lib/tallstackui",
     "description": "TallStackUI is a powerful suite of Blade components that elevate your workflow of Livewire applications.",
     "type": "library",
     "license": "MIT",
